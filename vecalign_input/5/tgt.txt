@@ -1,0 +1,3 @@
+5. Pareto, or ABC, analysis. 
+This analysis is used to identify the most important cost components of a project. 
+The first step is to sort each component by cost and then to place them into one of the following three groups:Group A : small percentage of the top cost components (10% to 15%)which together account for roughly 60% or more of the total costGroup B: all cost components that are not members of group A or CGroup C: large percentage of the bottom cost components(approximately 50%), which account for 10% or less of the total cost

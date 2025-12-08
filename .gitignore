@@ -16,10 +16,3 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
-
-# Data files (nếu file lớn)
-*.emb
-*.bin
-
-# Output
-vecalign_input/

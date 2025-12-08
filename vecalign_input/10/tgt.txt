@@ -1,0 +1,4 @@
+A PERT network is a flowchart diagram that depicts the sequence of activities needed to complete a project and the time or costs associated with each activity. 
+With a PERT network, a manager must think through what has to be done, determine which events depend on one another, and identify potential trouble spots. 
+PERT also makes it easy to compare the effects alternative actions might have on scheduling and costs. 
+Thus, PERT allows managers to monitor a project’s progress, identify possible bottlenecks, and shift resources as necessary to keep the project on schedule.

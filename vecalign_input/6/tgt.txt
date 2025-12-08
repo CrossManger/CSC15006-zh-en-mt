@@ -1,0 +1,11 @@
+a. Draw an early-start Gantt chart.
+
+b. Draw the AON network for this project.
+
+c. Draw the AOA network.
+
+d. Generate all possible paths for the AOA network, calculate their duration, and analyze the findings.
+
+e. Calculate ES, EF, LF, and LS for each activity.
+
+f. Calculate the slacks for the activities.
