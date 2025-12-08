@@ -1,0 +1,62 @@
+[
+  {
+    "instruction": "请将下面管理学的汉语文本翻译为英语文本\n",
+    "input": "在早期接触阶段，工会确定雇员对组织工会的兴趣，并成立组织委员会。工会与雇员间的早期接触的主动方可能是雇员，己经代表了本公司其他雇员的工会，或代表其他地方的雇员的工会。有时，工会化努力是从与地方工会接触从而掌握怎样组织自己所在工作地的雇员的不满者开始的。有时，工会竞选运动的动力在于工会希望扩大自己代表的雇员的范围，或因为在公司组织工会比较容易。不论何种情况，都存在工会代表与雇员的早期接触。\n",
+    "output": "During the initial contact stage, the union determines the employees interest in organizing, and establishes an organizing committee. The initiative for the first contact between the employees and the union may come from the employees, from a union already representing other employees of the firm, or from a union representing workers elsewhere. In any case, there is an initial contact.\n",
+    "id": 1
+  },
+  {
+    "instruction": "请将下面管理学的汉语文本翻译为英语文本\n",
+    "input": "工作绩效分析是指核验当前工作绩效与要求的工作绩效之间的差距，并确定是应当通过培训来纠正这种差距，还是应通过其他方式（如更换机器或调动雇员）来纠正。第一步是要评价雇员的工作绩效。换句话说，就是要改进雇员的工作绩效。你必须先确定你希望这个雇员的工作绩效是什么样的，而目前他的工作绩效又是什么样的。\n",
+    "output": "Performance analysis is the process of verifying that there is a performance deficiency and determining whether the employer should correct such deficiencies through training or some other means (like transferring the employee). The first step in performance analysis is usually to compare the person s actual performance to what it should be. Doing so helps to confirm that there is a performance deficiency, and (hopefully) helps the manager to identify its cause.\n",
+    "id": 2
+  },
+  {
+    "instruction": "请将下面管理学的汉语文本翻译为英语文本\n",
+    "input": "建立“红旗”机制。我们生活在一个信息时代，拥有更多更好的信息的人据说占有了优势。可当你环顾各种组织的盛衰时，就不难发现很少有公司是因为缺乏信息而垮台的。\n",
+    "output": "Build \"red flag\" mechanisms. We live in an information age, when those with more and better information supposedly have an advantage. If you look across the rise and fall of organizations, however, you will rarely find companies stumbling because they lacked information.\n",
+    "id": 3
+  },
+  {
+    "instruction": "请将下面管理学的汉语文本翻译为英语文本\n",
+    "input": "在国家环境与企业竞争的关系上，还有“机会”和\"政府\"等两个变数。产业发展的机会通常要等基础发明、技术、战争、政治环境发展、国外市场需求等方面出现重大变革与突破。“机会”通常非企业、甚至政府所能控制的。这些“机会”因素可能调整产业结构，提供一个的企业超越另一个企业的机会。\n",
+    "output": "Two additional variables can influence the national system in important ways, and are necessary to complete the theory. These are chance and government. Chance events are developments outside the control of firms (and usually the nation’s government), such as pure inventions, breakthroughs in basic technologies, wars, external political developments, and major shifts in foreign market demand.They create discontinuities that can unfreeze or reshape industry structure and provide the opportunity for one nation’s firms to supplant another’s.\n",
+    "id": 4
+  },
+  {
+    "instruction": "请将下面管理学的汉语文本翻译为英语文本\n",
+    "input": "5.帕累托分析或ABC分析。这种分析用来识别项目中最重要的成本要素。第一步是按照成本对每一个成本要素进行区分，然后将它们归入下面的三个组中。A组：高端成本要素占成本要素的小部分（10%〜15%)，其成本大约占 总成本的60%或以上。B组：所有的既不属于A组也不属于C组的成本要素。C组：低端成本要素占成本要素的大部分（大约50%)，其成本大约占总成本的10%或更少。\n",
+    "output": "5. Pareto, or ABC, analysis. This analysis is used to identify the most important cost components of a project. The first step is to sort each component by cost and then to place them into one of the following three groups:Group A : small percentage of the top cost components (10% to 15%)which together account for roughly 60% or more of the total costGroup B: all cost components that are not members of group A or CGroup C: large percentage of the bottom cost components(approximately 50%), which account for 10% or less of the total cost",
+    "id": 5
+  },
+  {
+    "instruction": "请将下面管理学的汉语文本翻译为英语文本\n",
+    "input": "a. 画出AOA网络图。b. 画出AON网络图。c. 找出关键路径。d. 找出每项作业活动的总松弛时间和自由松弛时间。e. 假设作业活动A、C、I受不确定性影响，并且只有如下的时间估计值:\n",
+    "output": "a. Draw an early-start Gantt chart.b. Draw the AON network for this project.c. Draw the AOA network.d. Generate all possible paths for the AOA network, calculate their duration, and analyze the findings.e. Calculate ES, EF, LF, and LS for each activity.f. Calculate the slacks for the activities.\n",
+    "id": 6
+  },
+  {
+    "instruction": "请将下面管理学的汉语文本翻译为英语文本\n",
+    "input": "A型人格（type A personality)的主要特征是长期感觉到一种时间紧迫感；一种过度的竞争驱动力；难以接受和享受闲暇时间。A型人格的对立面是B型人格 (type B personality)。B型人格不会产生时间紧迫感或焦躁。直到最近，人们还认为具有A型人格的个体更有可能在工作中承受压力。\n",
+    "output": "Type A personality is characterized by chronic feelings of a sense of time urgency, an excessive competitive drive, and difficulty accepting and enjoying leisure time. The opposite of Type A is Type B personality. Type Bs don’t suffer from time urgency or impatience. Until quite recently, it was believed that Type As were more likely to experience stress on and off the job.\n",
+    "id": 7
+  },
+  {
+    "instruction": "请将下面管理学的汉语文本翻译为英语文本\n",
+    "input": "A型人格（type A personality)的主要特征是长期感觉到一种时间紧迫感；一种过度的竞争驱动力；难以接受和享受闲暇时间。A型人格的对立面是B型人格 (type B personality)。B型人格不会产生时间紧迫感或焦躁。直到最近，人们还认为具有A型人格的个体更有可能在工作中承受压力。\n",
+    "output": "Type A personality is characterized by chronic feelings of a sense of time urgency, an excessive competitive drive, and difficulty accepting and enjoying leisure time. The opposite of Type A is Type B personality. Type Bs don’t suffer from time urgency or impatience. Until quite recently, it was believed that Type As were more likely to experience stress on and off the job.\n",
+    "id": 8
+  },
+  {
+    "instruction": "请将下面管理学的汉语文本翻译为英语文本\n",
+    "input": "今井正明（Imai，1986)也主张持续的改进过程，借此鼓励人们将注意力放在他们工作的环境而不是结果上。他坚信只要通过持续地改进流程和系统，最终的结果就会是一个更好的产品或服务。这就是“P”（过程导向方法），而不是“R”（结果导向方法），后者是由工作测量的前辈和工业管理之父弗雷德里克·泰勒（Frederick Taylor)提出的。过程导向方法又称为Kaizen法（Kaizen approach)。\n",
+    "output": "Imai (1986) supports the continuous improvement process, whereby people are encouraged to focus on the environment in which they work rather than on the results. He believes that by continually improving processes and systems, the end result will be a better product or service. This has become known as the \"R\" or process approach, rather than the \"R,\" or results approach of Frederick Taylor, a pioneer in work measurement and the father of industrial management. The process approach is also known as the Kaizen approach.\n",
+    "id": 9
+  },
+  {
+    "instruction": "请将下面管理学的汉语文本翻译为英语文本\n",
+    "input": "PERT网络（PERT network）是一种流程图形状的图表，用来描述某个项目所必需的各项活动的先后顺序以及与每项活动有关的时间或成本。使用PERT网络时，管理者必须弄清楚哪些活动必须完成，判断哪些事件彼此相互依赖，并且识别潜在的问题点。PERT还使得管理者更容易比较各种活动备选方案对进度和成本的影响。因此，PERT使管理者能够监控项目的进展、识别可能的瓶颈以及在必要时调动资源以使项目按进度计划进行。\n",
+    "output": "A PERT network is a flowchart diagram that depicts the sequence of activities needed to complete a project and the time or costs associated with each activity. With a PERT network, a manager must think through what has to be done, determine which events depend on one another, and identify potential trouble spots. PERT also makes it easy to compare the effects alternative actions might have on scheduling and costs. Thus, PERT allows managers to monitor a project’s progress, identify possible bottlenecks, and shift resources as necessary to keep the project on schedule.\n",
+    "id": 10
+  }
+]

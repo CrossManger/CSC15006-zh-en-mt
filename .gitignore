@@ -1,0 +1,25 @@
+# Python environment
+envir/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+.eggs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (nếu file lớn)
+*.emb
+*.bin
+
+# Output
+vecalign_input/

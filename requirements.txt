@@ -1,0 +1,35 @@
+# --- CORE DEEP LEARNING (PYTORCH) ---
+# Lưu ý: Nên cài Torch riêng theo CUDA version trước khi chạy file này
+
+# --- PHASE 1: ALIGNMENT & PRE-PROCESSING ---
+# Thay thế hoàn toàn tensorflow/tensorflow_text
+sentence-transformers>=2.2.2
+pysbd>=0.3.4
+numpy>=1.24.0
+scipy>=1.10.0
+pandas>=2.0.0
+tqdm>=4.66.0
+
+# --- PHASE 2: FINETUNING MT5 (HUGGING FACE) ---
+transformers>=4.36.0
+datasets>=2.16.0
+accelerate>=0.26.0
+
+# Bắt buộc cho mT5/T5 tokenizer
+sentencepiece>=0.1.99
+protobuf>=3.20.3
+
+# --- EVALUATION METRICS ---
+evaluate>=0.4.1
+sacrebleu>=2.4.0
+scikit-learn>=1.3.0
+
+# --- OPTIMIZATION (LoRA & QLoRA) ---
+# Giúp train model lớn trên GPU bộ nhớ thấp
+peft>=0.7.1
+bitsandbytes>=0.41.3
+
+# --- LOGGING & UTILS ---
+tensorboard>=2.15.0
+jupyter>=1.0.0
+ipykernel>=6.25.0
